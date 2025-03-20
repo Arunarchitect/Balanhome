@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:ifc="http://www.ifcopenshell.org/ns" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" data-scale="1:50" height="360.0mm" id="root" version="1.1" viewBox="0 0 360.0 360.0" width="360.0mm">
+  <defs/>
+  <line class="GlobalId-2v761s3g96KveUMVMMIrOu IfcAnnotation PredefinedType-SECTION" x1="-17.353153228759766" x2="342.634765625" y1="193.85421752929688" y2="193.85421752929688"/>
+  <use transform="rotate(0.0, -17.353153228759766, 193.85421752929688)" x="-17.353153228759766" xlink:href="#section-arrow" y="193.85421752929688"/>
+  <use x="-17.353153228759766" xlink:href="#section-tag" y="193.85421752929688"/>
+  <text class="SECTION" dominant-baseline="middle" text-anchor="middle" x="-17.353153228759766" y="191.35421752929688">-</text>
+  <text class="SECTION" dominant-baseline="middle" text-anchor="middle" x="-17.353153228759766" y="196.35421752929688">-</text>
+  <use transform="rotate(0.0, 342.634765625, 193.85421752929688)" x="342.634765625" xlink:href="#section-arrow" y="193.85421752929688"/>
+  <use x="342.634765625" xlink:href="#section-tag" y="193.85421752929688"/>
+  <text class="SECTION" dominant-baseline="middle" text-anchor="middle" x="342.634765625" y="191.35421752929688">-</text>
+  <text class="SECTION" dominant-baseline="middle" text-anchor="middle" x="342.634765625" y="196.35421752929688">-</text>
+  <line class="GlobalId-2B59CkClnFJP7mvFFJtN0M IfcAnnotation PredefinedType-DIMENSION" x1="202.84078979492188" x2="235.76829528808594" y1="229.99407958984375" y2="229.99407958984375"/>
+  <text dominant-baseline="baseline" style="font-size: 0;" text-anchor="middle" transform="translate(219.30453491210938, 228.99407958984375) rotate(0.0)">
+    <tspan class="DIMENSION" dy="0em" x="0" y="0">1.646</tspan>
+  </text>
+</svg>
