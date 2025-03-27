@@ -5,7 +5,7 @@
     <image xlink:href="titleblocks%5CA3.svg" x="0" y="0" width="420.0" height="297.0" id="image1" />
   </g>
   <g data-type="drawing" data-id="22292" data-drawing="3SHdvdodHCkeMDhDXu$3eQ" id="g3" transform="translate(-8.8554217,-64.939759)">
-    <image data-type="foreground" xlink:href="..%5Cdrawings%5CGROUND%20FLOOR%20PLAN.svg" x="30" y="30" width="300" height="300" id="image2" />
-    <image data-type="view-title" xlink:href="assets%5Cview-title.svg" x="30" y="335" width="50.222462" height="10" id="image3" />
+    <image data-type="foreground" xlink:href="..%5Cdrawings%5CGROUND%20FLOOR%20PLAN.svg" x="50.0" y="50.0" width="260.0" height="260.0" id="image2" />
+    <image data-type="view-title" xlink:href="assets%5Cview-title.svg" x="50.0" y="315.0" width="50.222462" height="10" id="image3" />
   </g>
 </svg>
