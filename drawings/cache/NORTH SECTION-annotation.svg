@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:ifc="http://www.ifcopenshell.org/ns" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" data-scale="1:50" height="149.83050847457628mm" id="root" version="1.1" viewBox="0 0 220.0 149.83050847457628" width="220.0mm">
+  <defs/>
+  <path class="GlobalId-1poZPDQN11B9OCMtnk7qvr IfcAnnotation PredefinedType-SECTIONLEVEL" d="M 596.788818359375 79.4507064819336 L -403.211181640625 79.45076751708984"/>
+  <text dominant-baseline="baseline" style="font-size: 0;" text-anchor="start" transform="translate(596.788818359375, 75.9507064819336) rotate(-3.4970570211478164e-06)">
+    <tspan class="SECTIONLEVEL" dy="-1em" x="0" y="0">FF</tspan>
+    <tspan class="SECTIONLEVEL" dy="0em" x="0" y="0">RL +3.450</tspan>
+  </text>
+  <path class="GlobalId-0n24bEusb7hR0ObDiBCWgr IfcAnnotation PredefinedType-SECTIONLEVEL" d="M 596.788818359375 148.45069885253906 L -403.211181640625 148.4507598876953"/>
+  <text dominant-baseline="baseline" style="font-size: 0;" text-anchor="start" transform="translate(596.788818359375, 144.95069885253906) rotate(-3.4970570211478164e-06)">
+    <tspan class="SECTIONLEVEL" dy="-1em" x="0" y="0">00</tspan>
+    <tspan class="SECTIONLEVEL" dy="0em" x="0" y="0">RL -0.000</tspan>
+  </text>
+  <line class="GlobalId-1AghNq$E5Fi84gwya1xgSy IfcAnnotation PredefinedType-SECTION" x1="108.06768798828125" x2="108.06767272949219" y1="159.4198455810547" y2="9.58932113647461"/>
+  <use transform="rotate(-90.00000250447816, 108.06768798828125, 159.4198455810547)" x="108.06768798828125" xlink:href="#section-arrow" y="159.4198455810547"/>
+  <use x="108.06768798828125" xlink:href="#section-tag" y="159.4198455810547"/>
+  <text class="SECTION" dominant-baseline="middle" text-anchor="middle" x="108.06768798828125" y="156.9198455810547">4</text>
+  <text class="SECTION" dominant-baseline="middle" text-anchor="middle" x="108.06768798828125" y="161.9198455810547">2</text>
+  <use transform="rotate(-90.00000250447816, 108.06767272949219, 9.58932113647461)" x="108.06767272949219" xlink:href="#section-arrow" y="9.58932113647461"/>
+  <use x="108.06767272949219" xlink:href="#section-tag" y="9.58932113647461"/>
+  <text class="SECTION" dominant-baseline="middle" text-anchor="middle" x="108.06767272949219" y="7.089321136474609">4</text>
+  <text class="SECTION" dominant-baseline="middle" text-anchor="middle" x="108.06767272949219" y="12.08932113647461">2</text>
+  <line class="GlobalId-2IsUWtIBLBCx_dN9XStqY0 IfcAnnotation PredefinedType-DIMENSION" x1="91.61631774902344" x2="91.61630249023438" y1="139.4507293701172" y2="77.45072174072266"/>
+  <text dominant-baseline="baseline" style="font-size: 0;" text-anchor="middle" transform="translate(90.6163101196289, 108.45072937011719) rotate(-90.0000161648565)">
+    <tspan class="DIMENSION" dy="0em" x="0" y="0">3.100</tspan>
+  </text>
+  <path class="GlobalId-1KIIP6hi95Wuc$V8bjrBBW IfcAnnotation PredefinedType-SECTIONLEVEL" d="M 596.788818359375 139.45069885253906 L -403.211181640625 139.45077514648438"/>
+  <text dominant-baseline="baseline" style="font-size: 0;" text-anchor="start" transform="translate(596.788818359375, 135.95069885253906) rotate(-4.371320971101521e-06)">
+    <tspan class="SECTIONLEVEL" dy="-1em" x="0" y="0">GF</tspan>
+    <tspan class="SECTIONLEVEL" dy="0em" x="0" y="0">RL +0.450</tspan>
+  </text>
+</svg>

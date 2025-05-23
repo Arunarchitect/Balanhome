@@ -24,15 +24,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.31370423"
-     inkscape:cx="1702.2403"
-     inkscape:cy="1063.1033"
+     inkscape:zoom="0.88728955"
+     inkscape:cx="1999.3473"
+     inkscape:cy="1256.0725"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="root" />
+     inkscape:current-layer="g38171" />
   <defs
      id="defs901">
     <clipPath
@@ -956,16 +956,6 @@
      id="g38171"
      transform="translate(320.99934,114.68626)">
     <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.54325px;line-height:125%;font-family:'OpenGost Type B TT';-inkscape-font-specification:'OpenGost Type B TT';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       x="236.56433"
-       y="207.4245"
-       id="text2529"><tspan
-         id="tspan2527"
-         x="236.56433"
-         y="207.4245"
-         style="stroke-width:0.264583px">{{Revision}}</tspan></text>
-    <text
        id="text2533"
        y="188.2565"
        x="210.77437"
@@ -979,13 +969,13 @@
        id="text36744"
        y="195.34851"
        x="168.16762"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.33589px;line-height:125%;font-family:'OpenGost Type B TT';-inkscape-font-specification:'OpenGost Type B TT';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;white-space:pre;inline-size:80.8998;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.371;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.33589px;line-height:125%;font-family:'OpenGost Type B TT';-inkscape-font-specification:'OpenGost Type B TT';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;white-space:pre;inline-size:80.8998;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.371;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        xml:space="preserve"><tspan
          x="168.16762"
          y="195.34851"
-         id="tspan34"><tspan
+         id="tspan40"><tspan
            style="font-family:ISOCPEUR;-inkscape-font-specification:ISOCPEUR"
-           id="tspan33">{{Name}}</tspan></tspan></text>
+           id="tspan39">{{Name}}</tspan></tspan></text>
   </g>
   <path
      id="path3"
@@ -1332,24 +1322,24 @@
      xml:space="preserve"
      transform="matrix(0.02116667,0,0,0.02116667,487.10495,130.2686)"
      clip-path="url(#clipPath38)"
-     style="text-decoration:underline;text-decoration-line:underline;white-space:pre;inline-size:4400.38"><tspan
+     style="text-decoration:underline;text-decoration-line:underline;white-space:pre;inline-size:4400.38;display:inline"><tspan
        x="0"
        y="0"
-       id="tspan36"><tspan
+       id="tspan42"><tspan
          dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.00016784668 0 0.00012207031 -0.00012207031 0 0 0 -0.00016784668 0.00012207031 0 -0.00016784668 0.00012207031 0 -0.00016784668"
          style="font-size:302.613px;font-family:ISOCPEUR"
-         id="tspan35">PROPOSED RESIDENTIAL BUILDING&#10;</tspan></tspan><tspan
+         id="tspan41">PROPOSED RESIDENTIAL BUILDING&#10;</tspan></tspan><tspan
        x="0"
        y="378.26626"
-       id="tspan38"><tspan
+       id="tspan44"><tspan
          dx="0 0 0 0 0 0 0 0 -0.00012207031 0 0.00012207031 0 0 0 0 0 -0.00012207031 0 0 0.00012207031 -0.00016784668"
          style="font-size:302.613px;font-family:ISOCPEUR"
-         id="tspan37">OWNED BY MR.BALAN IN &#10;</tspan></tspan><tspan
+         id="tspan43">OWNED BY MR.BALAN IN &#10;</tspan></tspan><tspan
        x="0"
        y="756.53253"
-       id="tspan40"><tspan
+       id="tspan46"><tspan
          style="font-size:302.613px;font-family:ISOCPEUR"
-         id="tspan39">TAMIL NADU </tspan></tspan></text>
+         id="tspan45">TAMIL NADU </tspan></tspan></text>
   <path
      id="path48"
      d="m 14887,12284 h 4719"
@@ -1383,12 +1373,12 @@
      xml:space="preserve"
      transform="matrix(0.02116667,0,0,0.02116667,535.93219,220.60794)"
      clip-path="url(#clipPath55)"
-     style="white-space:pre;inline-size:559.092"><tspan
+     style="white-space:pre;inline-size:559.092;display:inline"><tspan
        x="0"
        y="0"
-       id="tspan42"><tspan
+       id="tspan48"><tspan
          style="font-size:216.533px;font-family:ISOCPEUR"
-         id="tspan41">-  ??</tspan></tspan></text>
+         id="tspan47">-  NA</tspan></tspan></text>
   <path
      id="path56"
      d="M 19606,8962 H 14887"
@@ -1416,12 +1406,12 @@
      xml:space="preserve"
      transform="matrix(0.02116667,0,0,0.02116667,535.0638,234.23927)"
      clip-path="url(#clipPath61)"
-     style="white-space:pre;inline-size:992.508"><tspan
+     style="white-space:pre;inline-size:992.508;display:inline"><tspan
        x="0"
        y="0"
-       id="tspan44"><tspan
+       id="tspan50"><tspan
          style="font-size:216.533px;font-family:ISOCPEUR"
-         id="tspan43">-  ??%</tspan></tspan></text>
+         id="tspan49">-  NA</tspan></tspan></text>
   <path
      id="path62"
      d="m 14887,8306 h 4719"
@@ -1449,115 +1439,37 @@
      xml:space="preserve"
      transform="matrix(0.02116667,0,0,0.02116667,488.29028,166.10377)"
      clip-path="url(#clipPath67)"
-     style="white-space:pre;inline-size:3722.77"><tspan
+     style="white-space:pre;inline-size:4396.92;display:inline"><tspan
        x="0"
        y="0"
-       id="tspan46"><tspan
-         dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.00012207031 0.00017547607"
+       id="tspan52"><tspan
+         dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.00017547607 0 0 0.00017547607 0 0 0 0.00017547607 0 0 0.00017547607"
          style="font-size:216.533px;font-family:ISOCPEUR"
-         id="tspan45">GROUND FLOOR         - ?? sq.m</tspan></tspan></text>
+         id="tspan51">GROUND FLOOR EXISTING               - 43.9 sq.m</tspan></tspan></text>
   <text
      id="text67"
      xml:space="preserve"
      transform="matrix(0.02116667,0,0,0.02116667,488.29028,171.0356)"
      clip-path="url(#clipPath68)"
-     style="white-space:pre;inline-size:3654.4"><tspan
+     style="white-space:pre;inline-size:4491.17;display:inline"><tspan
        x="0"
        y="0"
-       id="tspan48"><tspan
-         dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.00020980835"
+       id="tspan55"><tspan
+         dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.00017547607 0 0 0.00017547607 0 0 0 0.00017547607 0 0 0.00017547607 0 0 0 0 0 0 0 0.00017547607 -0.00024414062 0.00024414062"
          style="font-size:216.533px;font-family:ISOCPEUR"
-         id="tspan47">STAIR ROOM            - ?? sq.m</tspan></tspan></text>
+         id="tspan54">GF PROPOSED ADDITIONAL.             - 6.35 sq.m</tspan></tspan></text>
   <text
      id="text68"
      xml:space="preserve"
      transform="matrix(0.02116667,0,0,0.02116667,488.29028,175.94627)"
      clip-path="url(#clipPath69)"
-     style="white-space:pre;inline-size:3864.08"><tspan
-       x="0"
-       y="0"
-       id="tspan50"><tspan
-         style="font-size:216.533px;font-family:ISOCPEUR"
-         id="tspan49">TOTAL BUILT-UP AREA - ?? sq.m</tspan></tspan></text>
-  <path
-     id="path70"
-     d="m 15108,10790 h 1940"
-     style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-     transform="matrix(0.02116667,0,0,-0.02116667,168.50427,415.36246)"
-     clip-path="url(#clipPath71)" />
-  <text
-     id="text71"
-     xml:space="preserve"
-     transform="matrix(0.02116667,0,0,0.02116667,488.29028,185.80994)"
-     clip-path="url(#clipPath72)"><tspan
-       style="font-variant:normal;font-weight:normal;font-size:216.533px;font-family:ISOCPEUR;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       x="0 111.73103 223.46205 335.19308 460.78223 558.4386 642.23688 739.89325 851.62427 977.21344 1074.8698 1186.6008 1284.2572 1395.9883 1479.7865 1605.3756 1717.1067 1814.7631"
-       y="0"
-       sodipodi:role="line"
-       id="tspan71">TOTAL COVERED AREA</tspan></text>
-  <text
-     id="text72"
-     xml:space="preserve"
-     transform="matrix(0.02116667,0,0,0.02116667,531.12736,185.80994)"
-     clip-path="url(#clipPath73)"
-     style="white-space:pre;inline-size:1559.98"><tspan
-       x="0"
-       y="0"
-       id="tspan52"><tspan
-         style="font-size:216.533px;font-family:ISOCPEUR"
-         id="tspan51">- ?? sq.m</tspan></tspan></text>
-  <path
-     id="path74"
-     d="m 15108,10324 h 1075"
-     style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-     transform="matrix(0.02116667,0,0,-0.02116667,168.50427,415.36246)"
-     clip-path="url(#clipPath75)" />
-  <text
-     id="text75"
-     xml:space="preserve"
-     transform="matrix(0.02116667,0,0,0.02116667,488.29028,195.65243)"
-     clip-path="url(#clipPath76)"><tspan
-       style="font-variant:normal;font-weight:normal;font-size:216.533px;font-family:ISOCPEUR;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       x="0 97.65638 195.31276 307.04379 418.77481 530.50586 614.30414 739.89325 851.62427 949.2807"
-       y="0"
-       sodipodi:role="line"
-       id="tspan75">FLOOR AREA</tspan></text>
-  <text
-     id="text76"
-     xml:space="preserve"
-     transform="matrix(0.02116667,0,0,0.02116667,488.29028,200.5631)"
-     clip-path="url(#clipPath77)"
-     style="white-space:pre;inline-size:4008.58"><tspan
-       x="0"
-       y="0"
-       id="tspan55"><tspan
-         dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.00017547607 0 0 0 0.00017547607"
-         style="font-size:216.533px;font-family:ISOCPEUR"
-         id="tspan54">GROUND FLOOR AREA      - ?? sq.m</tspan></tspan></text>
-  <text
-     id="text77"
-     xml:space="preserve"
-     transform="matrix(0.02116667,0,0,0.02116667,488.29028,205.49494)"
-     clip-path="url(#clipPath78)"
-     style="white-space:pre;inline-size:4079.08"><tspan
+     style="white-space:pre;inline-size:4491.66;display:inline"><tspan
        x="0"
        y="0"
        id="tspan57"><tspan
-         dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.00012207031 0.0001449585 0 0 0 0 0 0.00017547607"
+         dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.00017547607 -0.00020980835 0.00020980835 0 0 0 -0.00020980835 0.00017547607 0 0 0 0 0 0 0 0 0 0 0 0 0 0.00024414062"
          style="font-size:216.533px;font-family:ISOCPEUR"
-         id="tspan56">STAIR ROOM FLOOR AREA - ?? sq.m</tspan></tspan></text>
-  <text
-     id="text78"
-     xml:space="preserve"
-     transform="matrix(0.02116667,0,0,0.02116667,488.29028,210.42677)"
-     clip-path="url(#clipPath79)"
-     style="white-space:pre;inline-size:4034.01"><tspan
-       x="0"
-       y="0"
-       id="tspan60"><tspan
-         dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.00017547607"
-         style="font-size:216.533px;font-family:ISOCPEUR"
-         id="tspan58">TOTAL FLOOR AREA       - ?? sq.m</tspan></tspan></text>
+         id="tspan56">FIRST FLOOR PROPOSED (incl. Balcony) - 44.7 sq.m</tspan></tspan></text>
   <path
      id="path80"
      d="m 14887,5794 h 4719"
@@ -1569,12 +1481,12 @@
      xml:space="preserve"
      transform="matrix(0.02116667,0,0,0.02116667,487.73995,394.87313)"
      clip-path="url(#clipPath82)"
-     style="white-space:pre;inline-size:2912.54"><tspan
+     style="white-space:pre;inline-size:2912.54;display:inline"><tspan
        x="0"
        y="0"
-       id="tspan62"><tspan
+       id="tspan60"><tspan
          style="font-size:216.533px;font-family:ISOCPEUR"
-         id="tspan61">DIMENSIONS IN METERS.</tspan></tspan></text>
+         id="tspan58">DIMENSIONS IN METERS.</tspan></tspan></text>
   <text
      id="text82"
      xml:space="preserve"
@@ -2038,12 +1950,12 @@
      xml:space="preserve"
      transform="matrix(0.02116667,0,0,0.02116667,488.01512,382.15979)"
      clip-path="url(#clipPath149)"
-     style="white-space:pre;inline-size:1870.84"><tspan
+     style="white-space:pre;inline-size:1870.84;display:inline"><tspan
        x="0"
        y="193.63048"
-       id="tspan64"><tspan
+       id="tspan62"><tspan
          style="font-size:216.533px;font-family:ISOCPEUR"
-         id="tspan63">27-03-2025</tspan></tspan></text>
+         id="tspan61">27-03-2025</tspan></tspan></text>
   <text
      id="text149"
      xml:space="preserve"
@@ -2060,10 +1972,10 @@
      transform="matrix(0.02116667,0,0,0.02116667,542.28645,386.2583)"
      clip-path="url(#clipPath151)"><tspan
        style="font-variant:normal;font-weight:normal;font-size:216.533px;font-family:ISOCPEUR;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       x="0 111.73103 223.46205 321.11844 446.70758 572.29669 669.95312 795.54224 921.13141 1046.7206"
-       y="0"
        sodipodi:role="line"
-       id="tspan150">DD-MM-YYYY</tspan></text>
+       id="tspan150"
+       x="0"
+       y="0">17-04-2025</tspan></text>
   <text
      id="text151"
      xml:space="preserve"
@@ -2107,4 +2019,28 @@
      style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
      transform="matrix(0.02116667,0,0,-0.02116667,168.50427,383.57035)"
      clip-path="url(#clipPath49)" />
+  <text
+     id="text36"
+     xml:space="preserve"
+     transform="matrix(0.02116667,0,0,0.02116667,488.29028,187.50546)"
+     clip-path="url(#clipPath67)"
+     style="white-space:pre;inline-size:4396.92;display:inline"><tspan
+       x="0"
+       y="0"
+       id="tspan64"><tspan
+         dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.00017547607 0 0 0.00017547607 0 0 0 -0.00020980835 0.00017547607 0 0 0 0.00017547607 -0.00017547607 0 0 0 0 0 0 0.00020980835"
+         style="font-size:216.533px;font-family:ISOCPEUR"
+         id="tspan63">TOTAL PROPOSED (incl. Balcony)   - 44.7 sq.m</tspan></tspan></text>
+  <text
+     id="text38"
+     xml:space="preserve"
+     transform="matrix(0.02116667,0,0,0.02116667,488.29028,192.98767)"
+     clip-path="url(#clipPath67)"
+     style="white-space:pre;inline-size:4396.92;display:inline"><tspan
+       x="0"
+       y="0"
+       id="tspan67"><tspan
+         dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.00017547607 0 0 0 0.00017547607 0 0 0.00017547607 0 0 0 0.00017547607 0 0 0 0 0 0 0 0 0.00020980835"
+         style="font-size:216.533px;font-family:ISOCPEUR"
+         id="tspan66">FF BALCONY AREA                    - 6.6 sq.m</tspan></tspan></text>
 </svg>
