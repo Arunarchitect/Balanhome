@@ -1,19 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:ifc="http://www.ifcopenshell.org/ns" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" data-scale="1:50" height="220.0mm" id="root" version="1.1" viewBox="0 0 220.0 220.0" width="220.0mm">
   <defs/>
-  <line class="GlobalId-0V8OC7jmn6wfH4McI1lCZp IfcAnnotation PredefinedType-SECTION" x1="115.3768539428711" x2="115.3768539428711" y1="223.5870361328125" y2="3.5990524291992188"/>
-  <use transform="rotate(-90.00000250447816, 115.3768539428711, 223.5870361328125)" x="115.3768539428711" xlink:href="#section-arrow" y="223.5870361328125"/>
-  <use x="115.3768539428711" xlink:href="#section-tag" y="223.5870361328125"/>
-  <text class="SECTION" dominant-baseline="middle" text-anchor="middle" x="115.3768539428711" y="221.0870361328125">3</text>
-  <text class="SECTION" dominant-baseline="middle" text-anchor="middle" x="115.3768539428711" y="226.0870361328125">2</text>
-  <use transform="rotate(-90.00000250447816, 115.3768539428711, 3.5990524291992188)" x="115.3768539428711" xlink:href="#section-arrow" y="3.5990524291992188"/>
-  <use x="115.3768539428711" xlink:href="#section-tag" y="3.5990524291992188"/>
-  <text class="SECTION" dominant-baseline="middle" text-anchor="middle" x="115.3768539428711" y="1.0990524291992188">3</text>
-  <text class="SECTION" dominant-baseline="middle" text-anchor="middle" x="115.3768539428711" y="6.099052429199219">2</text>
-  <line class="GlobalId-2B59CkClnFJP7mvFFJtN0M IfcAnnotation PredefinedType-DIMENSION" x1="142.36566162109375" x2="175.29318237304688" y1="165.24856567382812" y2="165.24856567382812"/>
-  <text dominant-baseline="baseline" style="font-size: 0;" text-anchor="middle" transform="translate(158.8294219970703, 164.24856567382812) rotate(0.0)">
-    <tspan class="DIMENSION" dy="0em" x="0" y="0">1.646</tspan>
-  </text>
   <line class="GlobalId-3yZt8TP11EtvWHvOHQKBr$ IfcAnnotation PredefinedType-SECTION" x1="113.44453430175781" x2="113.44453430175781" y1="165.9485626220703" y2="45.94856262207031"/>
   <use transform="rotate(-90.00000250447816, 113.44453430175781, 165.9485626220703)" x="113.44453430175781" xlink:href="#section-arrow" y="165.9485626220703"/>
   <use x="113.44453430175781" xlink:href="#section-tag" y="165.9485626220703"/>
@@ -67,12 +54,25 @@
   <text dominant-baseline="baseline" style="font-size: 0;" text-anchor="middle" transform="translate(165.29319763183594, 86.94657897949219) rotate(0.0)">
     <tspan class="DIMENSION" dy="0em" x="0" y="0">1.000</tspan>
   </text>
-  <text dominant-baseline="baseline" style="font-size: 0;" text-anchor="start" transform="translate(123.78202819824219, 73.72584533691406) rotate(-0.0)">
-    <tspan class="GlobalId-0dfhvTXCHBBwarvMg9Qj0J IfcAnnotation PredefinedType-TEXT" dy="0em" x="0" y="0">Built-in </tspan>
-    <tspan class="GlobalId-0dfhvTXCHBBwarvMg9Qj0J IfcAnnotation PredefinedType-TEXT" dy="1em" x="0" y="0"> Shelf</tspan>
+  <line class="GlobalId-0V8OC7jmn6wfH4McI1lCZp IfcAnnotation PredefinedType-SECTION" x1="115.3768539428711" x2="115.3768539428711" y1="223.5870361328125" y2="3.5990524291992188"/>
+  <use transform="rotate(-90.00000250447816, 115.3768539428711, 223.5870361328125)" x="115.3768539428711" xlink:href="#section-arrow" y="223.5870361328125"/>
+  <use x="115.3768539428711" xlink:href="#section-tag" y="223.5870361328125"/>
+  <text class="SECTION" dominant-baseline="middle" text-anchor="middle" x="115.3768539428711" y="221.0870361328125">3</text>
+  <text class="SECTION" dominant-baseline="middle" text-anchor="middle" x="115.3768539428711" y="226.0870361328125">2</text>
+  <use transform="rotate(-90.00000250447816, 115.3768539428711, 3.5990524291992188)" x="115.3768539428711" xlink:href="#section-arrow" y="3.5990524291992188"/>
+  <use x="115.3768539428711" xlink:href="#section-tag" y="3.5990524291992188"/>
+  <text class="SECTION" dominant-baseline="middle" text-anchor="middle" x="115.3768539428711" y="1.0990524291992188">3</text>
+  <text class="SECTION" dominant-baseline="middle" text-anchor="middle" x="115.3768539428711" y="6.099052429199219">2</text>
+  <line class="GlobalId-2B59CkClnFJP7mvFFJtN0M IfcAnnotation PredefinedType-DIMENSION" x1="142.36566162109375" x2="175.29318237304688" y1="165.24856567382812" y2="165.24856567382812"/>
+  <text dominant-baseline="baseline" style="font-size: 0;" text-anchor="middle" transform="translate(158.8294219970703, 164.24856567382812) rotate(0.0)">
+    <tspan class="DIMENSION" dy="0em" x="0" y="0">1.646</tspan>
   </text>
   <text dominant-baseline="baseline" style="font-size: 0;" text-anchor="start" transform="translate(162.77870178222656, 77.63373565673828) rotate(-0.0)">
     <tspan class="GlobalId-3Z2FteaEL7wQy8qcSOyxWa IfcAnnotation PredefinedType-TEXT" dy="0em" x="0" y="0">Built-in </tspan>
     <tspan class="GlobalId-3Z2FteaEL7wQy8qcSOyxWa IfcAnnotation PredefinedType-TEXT" dy="1em" x="0" y="0"> Shelf</tspan>
+  </text>
+  <text dominant-baseline="baseline" style="font-size: 0;" text-anchor="start" transform="translate(123.78202819824219, 73.72584533691406) rotate(-0.0)">
+    <tspan class="GlobalId-0dfhvTXCHBBwarvMg9Qj0J IfcAnnotation PredefinedType-TEXT" dy="0em" x="0" y="0">Built-in </tspan>
+    <tspan class="GlobalId-0dfhvTXCHBBwarvMg9Qj0J IfcAnnotation PredefinedType-TEXT" dy="1em" x="0" y="0"> Shelf</tspan>
   </text>
 </svg>
