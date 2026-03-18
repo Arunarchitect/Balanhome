@@ -85,9 +85,9 @@ text, tspan {
 }
 
 .IfcSlab {
-    fill: rgb(165, 201, 242);
+    fill: rgb(0, 0, 0);
     fill-opacity: .2;
-    stroke: rgb(165, 201, 242);
+    stroke: rgb(0, 0, 0);
     stroke-opacity: 0.2;
     stroke-linecap: round;
     stroke-linejoin: round;
@@ -127,6 +127,16 @@ text, tspan {
     fill: rgb(165, 201, 242);
     fill-opacity: .8;
     stroke: rgb(165, 201, 242);
+    stroke-opacity: 0.8;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-width: 0.25;
+} 
+
+.IfcBeam {
+    fill: rgb(0, 0, 0);
+    fill-opacity: .8;
+    stroke: rgb(0, 0, 0);
     stroke-opacity: 0.8;
     stroke-linecap: round;
     stroke-linejoin: round;

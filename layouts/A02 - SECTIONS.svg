@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ns1="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns2="http://www.inkscape.org/namespaces/inkscape" xmlns:xlink="http://www.w3.org/1999/xlink" id="root" version="1.1" width="594.0mm" height="420.0mm" viewBox="0 0 594.0 420.0" ns1:docname="A02 - SECTIONS.svg" ns2:version="1.4.2 (f4327f4, 2025-05-13)">
+  <defs id="defs5" />
+  <ns1:namedview id="namedview5" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" ns2:showpageshadow="2" ns2:pageopacity="0.0" ns2:pagecheckerboard="0" ns2:deskcolor="#d1d1d1" ns2:document-units="mm" ns2:zoom="0.36304111" ns2:cx="837.37074" ns2:cy="822.22094" ns2:window-width="1920" ns2:window-height="1017" ns2:window-x="-8" ns2:window-y="-8" ns2:window-maximized="1" ns2:current-layer="root" />
+  <g data-type="titleblock" ns1:insensitive="true" id="g1">
+    <image xlink:href="titleblocks/A2.svg" x="0" y="0" width="594.0" height="420.0" id="image1" />
+  </g>
+  <g data-type="drawing" data-id="50302" data-drawing="2AUtc6hJTAJQKKouTCt9a_" id="g3" transform="translate(20.406321,51.015802)">
+    <image data-type="foreground" xlink:href="..%5Cdrawings%5CNORTH%20SECTION.svg" x="2.5" y="11.275" width="275" height="187.28" id="image2" />
+    <image data-type="view-title" xlink:href="assets%5Cview-title.svg" x="2.5" y="203.55551" width="86.235283" height="10" id="image3" />
+  </g>
+  <g data-type="drawing" data-id="50303" data-drawing="3eaB8kDZ50bg6Ba3kf1Bbc" id="g5" transform="translate(67.04934,51.015802)">
+    <image data-type="foreground" xlink:href="..%5Cdrawings%5CSOUTH%20SECTION.svg" x="232.5" y="11.275" width="275" height="187.28" id="image4" />
+    <image data-type="view-title" xlink:href="assets%5Cview-title.svg" x="232.5" y="203.55551" width="86.235283" height="10" id="image5" />
+  </g>
+</svg>
