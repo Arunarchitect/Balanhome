@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ns1="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns2="http://www.inkscape.org/namespaces/inkscape" xmlns:xlink="http://www.w3.org/1999/xlink" id="root" version="1.1" width="594.0mm" height="420.0mm" viewBox="0 0 594.0 420.0" ns1:docname="A04 - FIRST FLOOR.svg" ns2:version="1.4.2 (f4327f4, 2025-05-13)">
+  <defs id="defs5" />
+  <ns1:namedview id="namedview5" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" ns2:showpageshadow="2" ns2:pageopacity="0.0" ns2:pagecheckerboard="0" ns2:deskcolor="#d1d1d1" ns2:document-units="mm" ns2:zoom="0.48695932" ns2:cx="923.07505" ns2:cy="929.23572" ns2:window-width="1920" ns2:window-height="991" ns2:window-x="-9" ns2:window-y="-9" ns2:window-maximized="1" ns2:current-layer="root" />
+  <g data-type="titleblock" ns1:insensitive="true" id="g1">
+    <image xlink:href="titleblocks/A2.svg" x="0" y="0" width="594.0" height="420.0" id="image1" />
+  </g>
+  <g data-type="drawing" data-id="60738" data-drawing="0uH_ck8zn6ieXT3OP1oOOH" id="g3" transform="translate(-129.84862,-123.88099)">
+    <image data-type="foreground" xlink:href="..%5Cdrawings%5CFIRST%20%20FLOOR%20PLAN.svg" x="170.7150091607666" y="176.64000068664552" width="268.57" height="256.72" id="image2" />
+    <image data-type="view-title" xlink:href="assets%5Cview-title.svg" x="170.7150091607666" y="438.3600093133545" width="86.235283" height="10" id="image3" />
+  </g>
+  <g data-type="drawing" data-id="60739" data-drawing="395L$J9nf36BqlBKvJPsGo" id="g5" transform="translate(270.33501,-561.38099)">
+    <image data-type="foreground" xlink:href="..%5Cdrawings%5CFIRST%20%20FLOOR%20PLAN-DEMOLITION.svg" x="33.64500046594238" y="614.0649801525879" width="267.71" height="256.87" id="image4" />
+    <image data-type="view-title" xlink:href="assets%5Cview-title.svg" x="33.64500046594238" y="875.9350198474121" width="86.235283" height="10" id="image5" />
+  </g>
+</svg>
