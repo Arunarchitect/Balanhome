@@ -65,6 +65,33 @@ text, tspan {
     stroke-width: 0.25;
 }
 
+.IfcWindow.EPsetStatus-StatusNEW {
+    fill: none;
+    stroke: rgb(78, 245, 89);
+    stroke-opacity: 0.6;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-width: 0.25;
+}
+
+.PredefinedType-FILLAREA.EPsetStatus-StatusNEWEXISTING {
+    fill:  rgb(78, 245, 89);
+    stroke: rgb(78, 245, 89);
+    stroke-opacity: 0.6;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-width: 0.25;
+}
+
+.IfcWindow.EPsetStatus-StatusNEWEXISTING {
+    fill: none;
+    stroke: rgb(78, 214, 245);
+    stroke-opacity: 0.6;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-width: 0.25;
+}
+
 .IfcWindow {
     fill: none;
     stroke: rgb(124, 124, 123);
@@ -73,6 +100,7 @@ text, tspan {
     stroke-linejoin: round;
     stroke-width: 0.25;
 }
+
 
 .IfcSanitaryTerminal {
     fill: rgb(234, 239, 246);
@@ -191,8 +219,25 @@ text, tspan {
     stroke-width: 0.25;
 }
 
+.material-existing {
+    fill: rgb(165, 242, 179);
+    fill-opacity: .9;
+    stroke: rgb(165, 201, 242);
+    stroke-opacity: 0.9;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-width: 0.25;
+}
 
-
+.material-demolish {
+    fill: rgb(241, 126, 126);
+    fill-opacity: .9;
+    stroke: rgb(165, 201, 242);
+    stroke-opacity: 0.9;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-width: 0.25;
+}
 
 
 
@@ -222,7 +267,7 @@ text, tspan {
 .PredefinedType-STAIRARROW { marker-start: url(#stair-marker-start); marker-end: url(#stair-marker-end); }
 .PredefinedType-BOUNDARY { fill: none; stroke: red; stroke-width: 1; stroke-dasharray: 12, 4, 3, 4, 3, 4; }
 .PredefinedType-SEALANT { fill: url(#crosshatch1); stroke-width: 0.25; }
-.PredefinedType-FILLAREA { fill: white; stroke: black; }
+
 .PredefinedType-BREAKLINE { fill: none; stroke: black; stroke-width: 0.25; marker-mid: url(#breakline-marker); }
 .PredefinedType-TEXT { fill: black; stroke: none; }
 path.PredefinedType-TEXTLEADER { marker-end: url(#leader-marker); }
@@ -260,7 +305,25 @@ text.GRID, tspan.GRID { /* 5mm */ font-size: 4px; }
 .PredefinedType-CONCRETE { fill: url(#concrete); stroke: black; stroke-width: 0.5; }
 .PredefinedType-PLASTERBOARD { fill: url(#sand); stroke: black; stroke-width: 0.25; }
 .IfcReinforcingBar { fill: none; stroke: rgb(255, 0, 0); stroke-linecap: 'round'; stroke-width: 2; }
+.EPsetStatus-StatusDEMOLISH {
+    fill: rgb(241, 126, 126);
+    fill-opacity: .9;
+    stroke: rgb(165, 201, 242);
+    stroke-opacity: 0.9;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-width: 0.25;
+}
 
+.EPsetStatus-StatusNEW {
+    fill: rgb(239, 230, 112);
+    fill-opacity: .9;
+    stroke: rgb(165, 201, 242);
+    stroke-opacity: 0.9;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-width: 0.25;
+}
 
 .IfcCovering {
     fill: rgb(165, 201, 242);
