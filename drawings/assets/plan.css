@@ -49,7 +49,7 @@ text, tspan {
 .IfcFurniture {
     fill: rgb(234, 239, 246);
     fill-opacity: .5;
-    stroke: rgb(234, 239, 246);
+    stroke: rgb(0, 0, 0);
     stroke-opacity: 0.5;
     stroke-linecap: round;
     stroke-linejoin: round;
@@ -74,15 +74,6 @@ text, tspan {
     stroke-width: 0.25;
 }
 
-.PredefinedType-FILLAREA.EPsetStatus-StatusNEWEXISTING {
-    fill:  rgb(78, 245, 89);
-    stroke: rgb(78, 245, 89);
-    stroke-opacity: 0.6;
-    stroke-linecap: round;
-    stroke-linejoin: round;
-    stroke-width: 0.25;
-}
-
 .IfcWindow.EPsetStatus-StatusNEWEXISTING {
     fill: none;
     stroke: rgb(78, 214, 245);
@@ -91,6 +82,62 @@ text, tspan {
     stroke-linejoin: round;
     stroke-width: 0.25;
 }
+
+.IfcDoor.EPsetStatus-StatusNEW {
+    fill: none;
+    stroke: rgb(78, 245, 89);
+    stroke-opacity: 0.6;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-width: 0.25;
+}
+
+.IfcDoor.EPsetStatus-StatusNEWEXISTING {
+    fill: none;
+    stroke: rgb(78, 214, 245);
+    stroke-opacity: 0.6;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-width: 0.25;
+}
+
+.PredefinedType-FILLAREA.EPsetStatus-StatusNEWEXISTING {
+    fill:  rgb(78, 214, 245);
+    stroke: rgb(78, 214, 245);
+    stroke-opacity: 0.6;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-width: 0.25;
+}
+
+.PredefinedType-FILLAREA.EPsetStatus-StatusNEWEXISTING {
+    fill:  rgb(78, 214, 245);
+    stroke: rgb(78, 214, 245);
+    stroke-opacity: 0.6;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-width: 0.25;
+}
+
+.PredefinedType-FILLAREA.EPsetStatus-StatusEXISTING {
+    fill:  rgb(78, 214, 245);
+    stroke: rgb(78, 214, 245);
+    stroke-opacity: 0.6;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-width: 0.25;
+}
+
+.PredefinedType-FILLAREA.EPsetStatus-StatusDEMOLISH {
+    fill: rgb(241, 126, 126);
+    fill-opacity: .9;
+    stroke: rgb(165, 201, 242);
+    stroke-opacity: 0.9;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-width: 0.25;
+}
+
 
 .IfcWindow.EPsetStatus-StatusEXISTING {
     fill: none;
@@ -114,7 +161,7 @@ text, tspan {
 .IfcSanitaryTerminal {
     fill: rgb(234, 239, 246);
     fill-opacity: .5;
-    stroke: rgb(234, 239, 246);
+    stroke: rgb(0, 0, 0);
     stroke-opacity: 0.5;
     stroke-linecap: round;
     stroke-linejoin: round;
@@ -228,25 +275,7 @@ text, tspan {
     stroke-width: 0.25;
 }
 
-.material-existing {
-    fill: rgb(165, 242, 179);
-    fill-opacity: .9;
-    stroke: rgb(165, 201, 242);
-    stroke-opacity: 0.9;
-    stroke-linecap: round;
-    stroke-linejoin: round;
-    stroke-width: 0.25;
-}
 
-.material-demolish {
-    fill: rgb(241, 126, 126);
-    fill-opacity: .9;
-    stroke: rgb(165, 201, 242);
-    stroke-opacity: 0.9;
-    stroke-linecap: round;
-    stroke-linejoin: round;
-    stroke-width: 0.25;
-}
 
 
 
