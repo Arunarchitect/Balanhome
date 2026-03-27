@@ -314,7 +314,7 @@ text.GRID, tspan.GRID { /* 5mm */ font-size: 4px; }
 .PredefinedType-CONCRETE { fill: url(#concrete); stroke: black; stroke-width: 0.5; }
 .PredefinedType-PLASTERBOARD { fill: url(#sand); stroke: black; stroke-width: 0.25; }
 .IfcReinforcingBar { fill: none; stroke: rgb(255, 0, 0); stroke-linecap: 'round'; stroke-width: 2; }
-.EPsetStatus-StatusDEMOLISH {
+.EPsetStatus-StatusEXISTINGDEMOLISH {
     fill: rgb(241, 126, 126);
     fill-opacity: .9;
     stroke: rgb(165, 201, 242);

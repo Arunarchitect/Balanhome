@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ns1="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns2="http://www.inkscape.org/namespaces/inkscape" xmlns:xlink="http://www.w3.org/1999/xlink" id="root" version="1.1" width="594.0mm" height="420.0mm" viewBox="0 0 594.0 420.0" ns1:docname="A03 - EXISTING-DEMOLISHED.svg" ns2:version="1.4.2 (f4327f4, 2025-05-13)">
+  <defs id="defs5" />
+  <ns1:namedview id="namedview5" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" ns2:showpageshadow="2" ns2:pageopacity="0.0" ns2:pagecheckerboard="0" ns2:deskcolor="#d1d1d1" ns2:document-units="mm" ns2:zoom="0.34433224" ns2:cx="750.72842" ns2:cy="1075.9957" ns2:window-width="1920" ns2:window-height="991" ns2:window-x="-9" ns2:window-y="-9" ns2:window-maximized="1" ns2:current-layer="root" />
+  <g data-type="titleblock" ns1:insensitive="true" id="g1">
+    <image xlink:href="titleblocks/A2.svg" x="0" y="0" width="594.0" height="420.0" id="image1" />
+  </g>
+  <g data-type="drawing" data-id="59612" data-drawing="2fZ0lrG3j24Of1cZ63lCnC" id="g3">
+    <image data-type="foreground" xlink:href="..%5Cdrawings%5CGROUND%20FLOOR%20PLAN-EXISTING.svg" x="30.0" y="30.0" width="265.8687957695552" height="275.0133275985718" id="image2" />
+    <image data-type="view-title" xlink:href="assets%5Cview-title.svg" x="30.0" y="310.0133275985718" width="86.235283" height="10.0" id="image3" />
+  </g>
+  <g data-type="drawing" data-id="59613" data-drawing="1HvifiTT54ZRGvrqvC$E4c" id="g5" transform="translate(265.8688,-300.01334)">
+    <image data-type="foreground" xlink:href="..%5Cdrawings%5CGROUND%20FLOOR%20PLAN-DEMOLITION.svg" x="30" y="330.01334" width="265.8688" height="275.01334" id="image4" />
+    <image data-type="view-title" xlink:href="assets%5Cview-title.svg" x="30" y="610.02667" width="86.235283" height="10" id="image5" />
+  </g>
+</svg>
