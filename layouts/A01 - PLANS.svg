@@ -1,15 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:ns1="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns2="http://www.inkscape.org/namespaces/inkscape" xmlns:xlink="http://www.w3.org/1999/xlink" id="root" version="1.1" width="594.0mm" height="420.0mm" viewBox="0 0 594.0 420.0" ns1:docname="A01 - PLANS.svg" ns2:version="1.4.2 (f4327f4, 2025-05-13)">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ns1="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns2="http://www.inkscape.org/namespaces/inkscape" xmlns:ns3="http://www.w3.org/1999/xlink" id="root" version="1.1" width="594.0mm" height="420.0mm" viewBox="0 0 594.0 420.0" ns1:docname="A01 - PLANS.svg" ns2:version="1.4.2 (f4327f4, 2025-05-13)">
   <defs id="defs5" />
   <ns1:namedview id="namedview5" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" ns2:showpageshadow="2" ns2:pageopacity="0.0" ns2:pagecheckerboard="0" ns2:deskcolor="#d1d1d1" ns2:document-units="mm" ns2:zoom="0.36304111" ns2:cx="1008.1503" ns2:cy="599.10571" ns2:window-width="1920" ns2:window-height="1017" ns2:window-x="-8" ns2:window-y="-8" ns2:window-maximized="1" ns2:current-layer="root" />
   <g data-type="titleblock" ns1:insensitive="true" id="g1">
-    <image xlink:href="titleblocks/A2.svg" x="0" y="0" width="594.0" height="420.0" id="image1" />
+    <image ns3:href="titleblocks/A2.svg" x="0" y="0" width="594.0" height="420.0" id="image1" />
   </g>
   <g data-type="drawing" data-id="48928" data-drawing="3SHdvdodHCkeMDhDXu$3eQ" id="g3" transform="translate(22.674847,26.797546)">
-    <image data-type="foreground" xlink:href="..%5Cdrawings%5CGROUND%20FLOOR%20PLAN.svg" x="3.5100002" y="2.5" width="265.87" height="275.01001" id="image2" />
-    <image data-type="view-title" xlink:href="assets%5Cview-title.svg" x="3.5100002" y="282.51065" width="86.235283" height="10" id="image3" />
+    <image data-type="foreground" ns3:href="..%5Cdrawings%5CGROUND%20FLOOR%20PLAN.svg" x="3.5100002" y="2.5" width="265.87" height="275.01001" id="image2" />
+    <image data-type="view-title" ns3:href="assets%5Cview-title.svg" x="3.5100002" y="282.51065" width="86.235283" height="10" id="image3" />
   </g>
   <g data-type="drawing" data-id="62811" data-drawing="1HvifiTT54ZRGvrqvC$E4c" id="g5" transform="translate(19.067485,26.797546)">
-    <image data-type="foreground" xlink:href="..%5Cdrawings%5CGROUND%20FLOOR%20PLAN-DEMOLITION.svg" x="279.38" y="2.5" width="265.8688" height="275.01334" id="image4" />
-    <image data-type="view-title" xlink:href="assets%5Cview-title.svg" x="279.38" y="282.51334" width="86.235283" height="10" id="image5" />
+    <image data-type="foreground" ns3:href="..%5Cdrawings%5CGROUND%20FLOOR%20PLAN-DEMOLITION.svg" x="279.38" y="2.5" width="265.8688" height="275.01334" id="image4" />
+    <image data-type="view-title" ns3:href="assets%5Cview-title.svg" x="279.38" y="282.51334" width="86.235283" height="10" id="image5" />
   </g>
 </svg>
